@@ -1,2 +1,2 @@
-# kurs-arduino
-kurs arduino 2019/20
+# Kurs-Arduino
+Materiały do kursu Arduino
